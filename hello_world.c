@@ -2,6 +2,6 @@
 
 int main(){
   printf("hello world!\n");
-  printf("suxiaoni is here!\n");
+  printf("suxiaoni 2 is here!\n");
   return 0;
 }
